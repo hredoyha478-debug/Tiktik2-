@@ -1,0 +1,8 @@
+{
+  "name": "Remix TikTok - Real Short Video \u0026 Live Experience",
+  "description": "Immersive TikTok experience with reels, duet \u0026 stitch, live streaming, virtual gifts, creator analytics, DM inbox, and trending sound library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
